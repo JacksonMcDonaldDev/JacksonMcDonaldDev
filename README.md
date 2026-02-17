@@ -9,7 +9,7 @@
 I am a **Software engineer** and **Product Manager** with additional experience in customer success. I specialize in translating messy business requirements into clean technical specifications, and designing features users love.
 
 - 🔭 I’m currently leading product initiatives for **Conduction - Make Music the Fun Way!**
-- 🏗️ I’m currently building **Self-Hosted Infrastructure (Home Lab & Docker)**
+- 🏗️ I’m currently building **Self-Hosted Infrastructure with Docker**
 - 💬 Ask me how many people I share a **GRAMMY** with.
 - 📫 Reach me at **JacksonRMcDonald@gmail.com**
 
